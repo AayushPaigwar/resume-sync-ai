@@ -131,7 +131,7 @@ export default function Header() {
 
             {/* Star on GitHub */}
 <a
-  href="https://github.com/AayushPaigwar/resume-analyzer-job-recommender"
+  href="https://github.com/AayushPaigwar/resume-sync-ai"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center px-4 py-2 rounded-full bg-gradient-to-r from-purple-600 to-blue-600 text-white font-medium transition-all duration-300 hover:from-purple-700 hover:to-blue-700 hover:shadow-lg transform hover:-translate-y-0.5"

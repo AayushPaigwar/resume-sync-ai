@@ -81,7 +81,7 @@ export default function Auth() {
           <div className="text-center">
             <div className="flex justify-center items-center">
               <img
-                src="src/assets/logo-black.png"
+                src="./src/assets/logo-black.png"
                 alt="ResumeSync AI"
                 className="mx-auto h-20 w-20 object-contain"
               />
