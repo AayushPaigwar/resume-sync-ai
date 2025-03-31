@@ -1,5 +1,6 @@
 import { Loader2 } from 'lucide-react';
 import { useState } from 'react';
+import logoBlack from '../assets/logo-black.png';
 import { supabase } from '../lib/supabase';
 
 export default function Auth() {
@@ -81,7 +82,7 @@ export default function Auth() {
           <div className="text-center">
             <div className="flex justify-center items-center">
               <img
-                src="./src/assets/logo-black.png"
+                src={logoBlack}
                 alt="ResumeSync AI"
                 className="mx-auto h-20 w-20 object-contain"
               />
