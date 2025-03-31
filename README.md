@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb18e084-4d86-4775-bdcf-34c97027f271" alt="ResumeSyncAI Logo" height="150"  />
+</p>
+
 # ResumeSyncAI  
 **AI-Powered Resume Analyzer & Job Matcher**  
 *Built with AI and coding vibes.*  
